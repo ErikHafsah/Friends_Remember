@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Friends Remember</string>
+    <string name="image">Image</string>
+    <string name="tambah_data">Tambah Data</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="tgl_lahir">Tgl Lahir</string>
+    <string name="gender">Gender</string>
+    <string name="nama">Nama</string>
+    <string name="profil">Profil</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nama_panggilan">Nama Panggilan</string>
+    <string name="no_hp">No Hp</string>
+    <string name="alamat">Alamat</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+</resources>
