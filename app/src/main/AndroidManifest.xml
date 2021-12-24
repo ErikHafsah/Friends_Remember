@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FriendsRemember">
         <activity
+            android:name=".ui.main.ShowFriendsActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.profil.ProfilActivity"
             android:exported="false" />
         <activity

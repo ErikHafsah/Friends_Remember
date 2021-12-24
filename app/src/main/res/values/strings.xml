@@ -17,4 +17,21 @@
     <string name="jenis_kelamin">Jenis Kelamin</string>
     <string name="pria">Pria</string>
     <string name="wanita">Wanita</string>
+    <string name="man">Pria</string>
+    <string name="woman">Wanita</string>
+    <string name="phonenumber">No Handphone</string>
+    <string name="email">Email</string>
+    <string name="cancel">cancel</string>
+    <string name="save">save</string>
+    <string name="call">Hubungi</string>
+    <string name="new_contact">new_contact</string>
+    <string name="Woman">Wanita</string>
+    <string name="Man">Pria</string>
+    <string name="loading_error">Loading Error</string>
+    <string name="cannot_be_empty">Tidak Boleh Kosong!</string>
+    <string name="choice_only_one">Pilih Salah Satu</string>
+    <string name="contact_added">Kontak Ditambahkan</string>
+    <string name="premissions_to_call">Izin untuk melakukan panggilan!</string>
+    <string name="nothing_found">Tidak Ditemukan</string>
+    <string name="search">search</string>
 </resources>

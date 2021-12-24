@@ -3,13 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/activity_add_friends.xml" value="0.2" />
-        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/activity_main.xml" value="0.12611464968152866" />
-        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/activity_profil.xml" value="0.146875" />
-        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/content_profile.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/drawable/ic_person_add.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/activity_add_contact.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/activity_add_friends.xml" value="0.176" />
+        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/activity_profil.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/activity_show_contact.xml" value="0.140625" />
+        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/activity_show_friends.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/content_add_contact.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/content_main.xml" value="0.140625" />
+        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/content_profile.xml" value="0.4" />
+        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/content_show_contact.xml" value="0.20742753623188406" />
         <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/content_task.xml" value="0.25" />
         <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/fragment_user.xml" value="0.4" />
         <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/friends_list.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/layout/item_row.xml" value="0.140625" />
+        <entry key="..\:/Users/ACER/Documents/Kampus Merdeka/CapstoneDicoding/app/src/main/res/menu/menu_main.xml" value="0.140625" />
       </map>
     </option>
   </component>
